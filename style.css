@@ -1,0 +1,17 @@
+table,tr,td,th{
+border:10px solid black;
+border-collapse:collapse;	
+padding:5px;
+border-spacing:20px;	
+}
+
+body{
+bgcolor:blue;	
+}
+
+
+
+p{
+color:grey
+text-align:center;	
+}
